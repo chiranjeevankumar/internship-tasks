@@ -1,0 +1,15 @@
+Project 01 – Interactive Calculator & Unit Converter
+Project: Python Programming
+Description:
+I developed an interactive, menu-driven calculator and unit converter using Python.
+The project includes:
+- Addition, subtraction, multiplication and division.
+- Kilometers to miles conversion.
+- Celsius to Fahrenheit conversion.
+- Kilograms to pounds conversion.
+- Input validation using while loops and try-except.
+- Functions for individual operations.
+- A menu that continues until the user chooses to quit.
+- Division-by-zero handling.
+Technologies Used: Python 3
+Platform: Android Python IDE
