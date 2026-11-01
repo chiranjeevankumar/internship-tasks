@@ -1,0 +1,1 @@
+A Python-based Weather App that uses the OpenWeather API to retrieve real-time weather information and five-day forecasts. It displays temperature, weather conditions, humidity, and wind speed for different cities. The application uses Python's Requests library and JSON to fetch and process weather data, with error handling for invalid city names and API connection issues.
