@@ -1,0 +1,13 @@
+Project 04 – Web Scraper for Headlines & Quotes
+
+I developed a Python web scraper using Requests and BeautifulSoup.
+
+The application collects quotes, author names and tags from Quotes to Scrape, a public website designed for scraping practice.
+
+The collected data is saved in JSON and TXT formats. The program also displays the total number of quotes, the most quoted author and the most common tag.
+
+Source chosen: https://quotes.toscrape.com
+
+Why this source: It is a public practice website specifically designed for learning web scraping.
+
+Politeness rules: The scraper uses a request timeout and a one-second delay between page requests.
